@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <p id="charm">This is JS in DOM</p>
+        <script>
+            document.getElementById("charm").textContent="Malayalam";
+            var element=document.createElement('h1');
+            element.textContent='hgfdftdtg'
+            document.body.appendChild(element)
+        </script>
+    </body>
+</html>
