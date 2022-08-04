@@ -1,0 +1,16 @@
+console.log("Sum is ", add(10))
+
+function add(a)
+{
+
+
+var i=0;
+var sum=0;
+
+while(i<=a)
+{
+    sum+=i;
+    i++;
+}
+return sum;
+}
