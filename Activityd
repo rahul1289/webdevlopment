@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <script>
+        var svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg'); 
+        svg.width = 500;
+        svg.height  =  50;
+        var text = document.createElementNS('http://www.w3.org/2000/svg', 'text'); 
+        text.setAttribute('x', '30');
+        text.setAttribute('y', '50'); 
+        text.style.fontFamily = 'Times New Roman'; text.style.fontSize = '50';
+        text.textContent = 'Hello world!';
+        svg.appendChild(text); document.body.appendChild(svg);
+        var img = new Image();
+        img.src = 'https://i.ytimg.com/vi/zecueq-mo4M/maxresdefault.jpg'; 
+        document.body.appendChild(img);
+    </script>
+        <H3>Rahul Babu Nair</H3>
+        <br>
+        <br>
+        <table>
+            <tr>
+                <th>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Toronto_Skyline_Summer_2020.jpg"/>
+                </th>
+            </tr>
+        </table>
+
+    </body>
+</html>
