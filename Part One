@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Rabbits</title></head>
+    <body background="https://burst.shopifycdn.com/photos/fog-on-dark-waters-edge.jpg?width=1200&format=pjpg&exif=1&iptc=1">
+        <h1>Rabbits!</h1>
+        <h3>Images!</h3>
+        <table>
+            <tr>
+                <th>
+                <img width="150" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oryctolagus_cuniculus_Rcdo.jpg/1200px-Oryctolagus_cuniculus_Rcdo.jpg"/>
+                </th>
+                <th>
+                    <img width="150" height="200" src="https://cdn.britannica.com/20/194520-050-DCAE62F1/New-World-Sylvilagus-cottontail-rabbits.jpg"/>
+            
+                </th>
+                <th>
+                    <img height="200" width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Oryctolagus_cuniculus_Tasmania_2.jpg/1200px-Oryctolagus_cuniculus_Tasmania_2.jpg"/>
+                </th>
+            </tr>
+        </table>
+        <h2>Wiki</h2>
+        <p>
+            Rabbits, also known as bunnies or bunny rabbits, are small mammals in the family Leporidae (which also contains the hares) of the order Lagomorpha (which also contains the pikas).
+        </p>
+        <p>
+            Oryctolagus cuniculus includes the European rabbit species and its descendants, the world's 305 breeds[1] of domestic rabbit. Sylvilagus includes 13 wild rabbit species, among them the seven types of cottontail.
+        </p>
+        <p>
+            The European rabbit, which has been introduced on every continent except Antarctica, is familiar throughout the world as a wild prey animal and as a domesticated form of livestock and pet.
+        </p>
+        <p>
+            Although once considered rodents, lagomorphs like rabbits have been discovered to have diverged separately and earlier than their rodent cousins and have a number of traits rodents lack, like two extra incisors.
+        </p>
+        <h2>Terminology</h2>
+        <p>
+            A male rabbit is called a buck; a female is called a doe. An older term for an adult rabbit used until the 18th century is coney (derived ultimately from the Latin cuniculus), while rabbit once referred only to the young animals.
+        </p>
+
+    </body>
+
+</html>
